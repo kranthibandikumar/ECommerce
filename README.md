@@ -25,11 +25,6 @@ ECommerce/
 │  ├─ clientProject
 │      ├─Project
 
-## Video Walkthrough of the project
-
-
-## Video Walkthrough of the codebase
-
 
 ## Features
 List out the key features of your application.
