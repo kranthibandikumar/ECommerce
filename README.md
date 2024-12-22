@@ -13,7 +13,7 @@ experience for users worldwide.
 
 
 ## Project Type
-Fullstack
+Fronted
 
 ## Deplolyed App
 Frontend: https:https://e-commerce-zeta-topaz.vercel.app/
